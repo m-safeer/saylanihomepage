@@ -1,0 +1,98 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/*Top Header Start*/
+.third a {
+    padding: 6px 12px;
+    background-color: whitesmoke;
+    font-size: 11px;
+    border: 1px solid#006618;
+    text-decoration: none;
+}
+/*Top Header End*/
+
+/*Navigation Bar Start*/
+.navbar {
+    border-bottom: 1px solid #cecece;
+}
+.navcollinks ul li a {
+    font-size: 13px;
+    font-weight: 600;
+    color: #333333;
+    padding: 8px 16px;
+    border-radius: 30px;
+    text-decoration: none;
+}
+.navcollinks ul li a:hover {
+    background-color: #316DC3;
+    color: white;
+}
+/*Navigation Bar End*/
+
+/*Ticker Start*/
+.ticker {
+    background-color: #316DC3;
+}
+.ticker p {
+    font-size: 14px;
+}
+.ticker p a {
+    text-decoration: none;
+    color: skyblue;
+}
+/*Ticker End*/
+
+/*Projects Start*/
+.hr5 {
+    border: 1px solid green;
+    width: 8%;
+    margin: 1em 0em;
+}
+.hr6 { 
+    margin: 1em 0em;
+    border: 0.1px solid #e0e0e0;
+}
+.hr7 {
+    border: 1px solid green;
+    width: 15%;
+    position: relative;
+    top: -1em;
+}
+/*Projects End*/
+
+/*Footer Start*/
+.f-col1 {
+    font-size: 14px;
+    color: #bbb;
+}
+.f-col1 i {
+    padding: 10px 5px 10px 0px;
+    color: green;
+}
+.hr10 {
+    margin-top: 1em;
+    border: 0.1px solid #5d5d5d;
+}
+.hr11 {
+    border: 1px solid green;
+    width: 16%;
+    position: relative;
+    bottom: 17px;
+}
+.f-col3 a {
+    padding: 5px;
+    background-color: #316DC3;
+    border-radius: 40px;
+    margin: 0px 5px;
+}
+.f-col3 a i {
+    color: white;
+    width: 22px;
+    text-align: center;
+    margin-top: 20px;
+}
+/*Footer End*/
